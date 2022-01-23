@@ -7,22 +7,17 @@ import re
 import sys
 
 def diagonalDifference(arr):
-    d1 = []
-    d2 = []
+    d1 = 0
+    d2 = 0
     for i in range(len(arr)):
         for j in range(len(arr[0])):
             if i == j:
-                d1.append(arr[i][j])
-                if len(arr) // 2 == i:
-                    d2.append(arr[i][j])
+                d1 += arr[i][j]
                 
-            elif (j == (len(arr) - i - 1)):
-                d2.append(arr[i][j])
+            if (i + j) == (len(arr) - 1):
+                d2 += arr[i][j]
                 
-    sum_1 = sum(d1)
-    sum_2 = sum(d2)
-    return abs(sum_1 - sum_2)
-
+    return abs(d1 - d2)
 
 
 if __name__ == '__main__':

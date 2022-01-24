@@ -8,3 +8,9 @@ Implementation of algorithm
 3. [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) ([python](./python/diagonal_difference.py)) 
 
 4. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) ([python](./python/plus_minus.py)) 
+
+5. [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true) ([python](./python/staircase.py)) 
+
+6. [Min Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) ([python](./python/min_max_sum.py))
+
+

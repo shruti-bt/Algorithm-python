@@ -13,4 +13,6 @@ Implementation of algorithm
 
 6. [Min Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) ([python](./python/min_max_sum.py))
 
+7. [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true) ([python](./python/time_conversion.py))
+
 
